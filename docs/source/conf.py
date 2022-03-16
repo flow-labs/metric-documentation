@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'Flow Labs Metric Documentation'
+copyright = '2022, Flow Labs'
+author = 'Flow Labs Team'
 
 release = '0.1'
 version = '0.1.0'
@@ -30,6 +30,26 @@ templates_path = ['_templates']
 # -- Options for HTML output
 
 html_theme = 'sphinx_rtd_theme'
+
+# Theme options are theme-specific and customize the look and feel of a theme
+# further.  For a list of options available for each theme, see the
+# documentation.
+#
+html_theme_options = {
+    'logo_only': True,
+    'display_version': False,
+    'prev_next_buttons_location': 'None',
+    'style_external_links': False,
+    'style_nav_header_background': '#1a1a1a',
+    # Toc options
+    'collapse_navigation': False,
+    'sticky_navigation': True,
+    'navigation_depth': 4,
+    'includehidden': True,
+    'titles_only': False
+}
+
+html_logo = "Flow Labs Logo (light).png"
 
 # -- Options for EPUB output
 epub_show_urls = 'footnote'

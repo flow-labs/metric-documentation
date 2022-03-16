@@ -1,9 +1,8 @@
-Template for the Read the Docs tutorial
+Flow Labs Metric Documentation
 =======================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
+This repository contains information and descriptions of the metrics shown in the Flow Labs apps.
 
-Read the tutorial here:
+Flow Labs website: https://www.flowlabs.ai/
 
-https://docs.readthedocs.io/en/stable/tutorial/
+Contact us today if you would like a demo of our apps: https://www.flowlabs.ai/contact-us
